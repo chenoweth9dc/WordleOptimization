@@ -18,7 +18,7 @@ letter_prop_df(possible_set)
 ```
 Example Output:
 
-![letter_prop_df() Example](zLetterPropDfExample.png)
+![letter_prop_df() Example](readmepics/zLetterPropDfExample.png)
 
 Second, `single_let_dist_viz()` asks for a single lowercase letter input and shows a distribution of where that letter can be found in each of the 5 possible positions in the given possible word set
 ```
@@ -26,7 +26,7 @@ single_let_dist_viz(possible_set)
 ```
 Example Output:
 
-![single_let_dist_viz() Example](zSingleLetDistVizExample.png)
+![single_let_dist_viz() Example](readmepics/zSingleLetDistVizExample.png)
 
 ### Robo Guessers
 Last, but not least, is the "robo guessers". Both of our robo guessers use optimal guesses found by finding the expected value of green letters as a result of a guess and penalizing words with double letters by subrating 0.5 from that expected value. The difference between our `manual_robo_guesser()` and `auto_robo_guesser()` is that the manual guesser promts you to input the result of each guess while the automatic guesser takes the answer and plays the game out automatically. For example, the manual guesser can be used to play Wordle when you don't know the answer already where the automatic guesser can be used to see how fast our algorithm solved today's puzzle.
@@ -37,7 +37,7 @@ auto_robo_guesser(possible_set, answer)
 ```
 Example Output:
 
-![robo_guesser() Example](zAutoRoboGuesserExample.png)
+![robo_guesser() Example](readmepics/zAutoRoboGuesserExample.png)
 
 ## Authors
 Created by Dalton and Colin Chenoweth
