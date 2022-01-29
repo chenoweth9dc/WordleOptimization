@@ -35,6 +35,9 @@ manual_robo_guesser(possible_set)
 
 auto_robo_guesser(possible_set, answer)
 ```
+Example Output (Auto Guesser):
+
+![auto_robo_guesser() Example](zAutoRoboGuesserExample.png)
 
 ## Authors
 Created by Dalton and Colin Chenoweth
