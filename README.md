@@ -1,6 +1,6 @@
 # Wordle Optimization Project
 
-***Our "robo guesser" can solve any Wordle puzzle within 6 guesses, with an average of 4.53 guesses.*** This automatic guesser along with other functions that provide useful analytics for players who want to improve their guesses without cheating are included in this project.
+***Our "robo guesser" can solve any Wordle puzzle within 6 guesses, with an average of 4.53 guesses.*** This automatic guesser, along with other functions that provide useful analytics for players who want to improve their guesses without cheating, are included in this project.
 
 ## How to Use Key Functions
 All functions in this repository will provide basic information with use of help(*function()*), but below is how to use the key functions.
